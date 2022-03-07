@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FunBooksAndVideos_ViewModel/1.0.0": {
+        "runtime": {
+          "FunBooksAndVideos_ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunBooksAndVideos_ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

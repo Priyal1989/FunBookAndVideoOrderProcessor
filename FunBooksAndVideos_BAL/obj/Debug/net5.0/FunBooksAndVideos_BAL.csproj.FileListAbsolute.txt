@@ -1,0 +1,15 @@
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\bin\Debug\net5.0\FunBooksAndVideos_BAL.deps.json
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\bin\Debug\net5.0\FunBooksAndVideos_BAL.dll
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\bin\Debug\net5.0\ref\FunBooksAndVideos_BAL.dll
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\bin\Debug\net5.0\FunBooksAndVideos_BAL.pdb
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.AssemblyInfoInputs.cache
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.AssemblyInfo.cs
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.csproj.CoreCompileInputs.cache
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.dll
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\ref\FunBooksAndVideos_BAL.dll
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.pdb
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\bin\Debug\net5.0\FunBooksAndVideos_ViewModel.dll
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\bin\Debug\net5.0\FunBooksAndVideos_ViewModel.pdb
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.csproj.AssemblyReference.cache
+D:\Priyal\FunBooksAndVideos_Processor\FunBooksAndVideos_BAL\obj\Debug\net5.0\FunBooksAndVideos_BAL.csproj.CopyComplete

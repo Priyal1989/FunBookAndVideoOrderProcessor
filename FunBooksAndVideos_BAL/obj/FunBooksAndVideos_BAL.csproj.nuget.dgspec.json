@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj": {}
+    "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj": {}
   },
   "projects": {
-    "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj": {
+    "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj",
+        "projectUniqueName": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj",
         "projectName": "FunBooksAndVideos_BAL",
-        "projectPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj",
+        "projectPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_BAL\\FunBooksAndVideos_BAL.csproj",
         "packagesPath": "C:\\Users\\Priyal\\.nuget\\packages\\",
-        "outputPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_BAL\\obj\\",
+        "outputPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_BAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj": {
-                "projectPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj"
+              "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj": {
+                "projectPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj": {
+    "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
+        "projectUniqueName": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
         "projectName": "FunBooksAndVideos_ViewModel",
-        "projectPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
+        "projectPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
         "packagesPath": "C:\\Users\\Priyal\\.nuget\\packages\\",
-        "outputPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\obj\\",
+        "outputPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

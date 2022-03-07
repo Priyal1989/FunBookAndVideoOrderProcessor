@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
+      "projectUniqueName": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
       "projectName": "FunBooksAndVideos_ViewModel",
-      "projectPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
+      "projectPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\FunBooksAndVideos_ViewModel.csproj",
       "packagesPath": "C:\\Users\\Priyal\\.nuget\\packages\\",
-      "outputPath": "D:\\Priyal\\FunBooksAndVideos_Processor\\FunBooksAndVideos_ViewModel\\obj\\",
+      "outputPath": "D:\\PriyalGitAllDemo\\FunBookAndVideoOrderProcessor\\FunBooksAndVideos_ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

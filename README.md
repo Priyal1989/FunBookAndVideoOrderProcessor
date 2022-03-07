@@ -36,7 +36,7 @@ club, the video club or for both clubs (premium).
 
 # Notes
 
-- There is no UI or DataLayer(Repository) Implemented for this.
+- There is no UI or DataLayer/Repository Implemented for this.
 - This application contains only business layer and model. 
 - Code contains flexible purchase order processor
 - Whenever any business rule will be added you just need to change RuleGenerator and RuleExceutor only. 
